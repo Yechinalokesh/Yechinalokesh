@@ -8,7 +8,7 @@
 <h1 align="center">🧑‍💻 Lokesh Yechina</h1>
 
 <p align="center">
-  <i>Passionate Developer | Data Science Enthusiast | Anime Lover</i>
+  <i>Passionate Developer | Data Science Enthusiast </i>
 </p>
 
 ---
@@ -123,3 +123,7 @@
 > _"Code is like humor. When you have to explain it, it’s bad." — Cory House_
 
 ---
+<br clear="both">
+<div align="center">
+<img src="https://raw.githubusercontent.com/AKASH722/AKASH722/output/snake.svg" alt="Snake animation" />
+</div>
